@@ -33,4 +33,4 @@ Este é um projeto simples de um aplicativo web para sortear amigo secreto.
 
 ## Autor
 
-[Seu Nome]
+[Marcel Mariano]
