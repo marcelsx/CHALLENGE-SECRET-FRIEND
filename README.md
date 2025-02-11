@@ -12,7 +12,7 @@ Este é um projeto simples de um aplicativo web para sortear amigo secreto.
 
 ## Como usar
 
-1. Abra o arquivo `index.html` no seu navegador.
+1. Abra o arquivo `index.html` ou o site `https://challenge-secret-friend-eight.vercel.app` no seu navegador.
 2. Digite o nome de cada amigo no campo de entrada e clique em "Adicionar".
 3. A lista de amigos será exibida abaixo do campo de entrada.
 4. Clique em "Sortear Amigo" para realizar o sorteio.
